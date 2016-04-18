@@ -2,7 +2,6 @@
 #include <fstream>
 #include <sstream>
 #include <vector>
-
 #include "ErrorContext.h"
 #include "GamingTests.h"
 
